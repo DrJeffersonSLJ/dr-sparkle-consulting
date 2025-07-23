@@ -1,6 +1,4 @@
-# dr-sparkle-consulting
 Dr. Jefferson Coaches
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />

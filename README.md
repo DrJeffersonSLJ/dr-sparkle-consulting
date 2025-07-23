@@ -160,3 +160,29 @@ Dr. Jefferson Coaches
 
 </body>
 </html>
+# Dr. Sparkle Jefferson Educational Consulting LLC
+
+Welcome to the official repository for **Dr. Sparkle Jefferson's Educational Consulting LLC**. 
+
+### About Dr. Sparkle Jefferson
+
+Dr. Sparkle Jefferson is an experienced educator and a certified Gallup Strengths Coach. Dr. Jefferson specializes in offering educators transformative insights and guidance to foster personal and professional growth using Gallup StrengthsFinder tools and other educational tips.
+
+### Website
+
+The website is hosted using GitHub Pages. It provides helpful resources, coaching services, and tips for educators.
+
+### Features
+
+- Educational tips & advice
+- Gallup Strengths Coaching for educators and leaders
+- Easy-to-navigate design, responsive across devices
+- Sleek purple theme for a professional appearance
+
+### Setup & Installation
+
+To set up this site locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/dr-sparkle-consulting.git
+   cd dr-sparkle-consulting

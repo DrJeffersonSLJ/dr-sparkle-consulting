@@ -160,7 +160,7 @@ Dr. Jefferson Coaches
 </html>
 # Dr. Sparkle Jefferson Educational Consulting LLC
 
-Welcome to the official repository for **Dr. Sparkle Jefferson's Educational Consulting LLC**. 
+Welcome to the official website for **Dr. Sparkle Jefferson's Educational Consulting LLC**. 
 
 ### About Dr. Sparkle Jefferson
 
